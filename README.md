@@ -46,5 +46,5 @@ Predictive expert system for potato crop management using rule-based logic and n
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=criseen7&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=criseen7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=criseen7&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
