@@ -8,7 +8,7 @@ Computer Engineer graduated from ESIME Culhuacán (IPN) focused on backend devel
 Passionate about building scalable software using Python, RESTful architectures, databases, and cloud technologies. Experienced in developing predictive expert systems and participating in competitive programming contests (ICPC).
 
 Currently interested in:
-- Full-stack Engineering
+- Software Engineering
 - Data Science
 - Cloud & DevOps
 - Open Source
