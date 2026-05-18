@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ingeniero en Computación graduado de la ESIME Culhuacán con enfoque en el desarrollo de software de alto rendimiento y ciencia de datos. Experiencia en la creación de arquitecturas RESTful y sistemas expertos predictivos utilizando redes neuronales. Competidor destacado en concursos de programación (ICPC), con sólida capacidad para la resolución de problemas complejos y optimización de bases de datos.
+Ingeniero en Computación graduado de la Escuela Superior Ingenieriía Mecánica y Eléctrica Culhuacán (IPN) con enfoque en el desarrollo de software de alto rendimiento y ciencia de datos. Experiencia en la creación de arquitecturas RESTful y sistemas expertos predictivos utilizando redes neuronales. Competidor destacado en concursos de programación (ICPC), con sólida capacidad para la resolución de problemas complejos y optimización de bases de datos.
 
 
 ## 🌐 Socials:
