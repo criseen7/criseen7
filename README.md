@@ -44,13 +44,7 @@ Predictive expert system for potato crop management using rule-based logic and n
 - Cloud Architecture
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://criseen7-github-readme-stats.vercel.app/api?username=criseen7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank=true" height="180"/>
-
-<img src="https://criseen7-github-readme-stats.vercel.app/api/top-langs/?username=criseen7&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180"/>
-
-</div>
+# 📊 GitHub Stats: 
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=criseen7&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact) 
+[![Cristofer's GitHub stats](https://github-readme-stats.vercel.app/api?username=criseen7&show_icons=true&theme=tokyonight)](https://github.com/criseen7)
 
