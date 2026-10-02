@@ -45,8 +45,11 @@ Predictive expert system for potato crop management using rule-based logic and n
 
 
 # 📊 GitHub Stats
+<div align="center">
 
-![](https://TU-INSTANCIA.vercel.app/api/top-langs/?username=criseen7&theme=github_dark&hide_border=false&layout=compact)
+<img src="https://TU-INSTANCIA.vercel.app/api?username=criseen7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank=true" height="180"/>
 
-[![Cristofer's GitHub stats](https://TU-INSTANCIA.vercel.app/api?username=criseen7&show_icons=true&theme=tokyonight)](https://github.com/criseen7)
+<img src="https://TU-INSTANCIA.vercel.app/api/top-langs/?username=criseen7&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180"/>
+
+</div>
 
