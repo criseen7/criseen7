@@ -12,7 +12,6 @@ My technical interests include backend development, distributed systems, databas
 Currently interested in:
 - Software Engineering
 - Data Science
-- Cloud & DevOps
 - Open Source
 
 
@@ -29,36 +28,17 @@ Currently interested in:
 ### BenePDF
 Desktop application focused on PDF document management and editing.
 
-PDF document viewing and organization.
-
-Page manipulation and document processing.
-
-Text and image editing workflows.
-
-Document redaction and safe export.
+PDF document viewing and organization. Page manipulation and document processing. Text and image editing workflows. Document redaction and safe export.
 
 ### LogLens – Enterprise Log Analyzer
 Log analysis and observability platform designed to support incident investigation.
 
-Automated log ingestion and error fingerprinting.
-
-Anomaly detection and temporal analysis.
-
-Service impact analysis and incident investigation.
-
-MCP integration and AI-assisted workflows.
-
-Evidence validation and human-in-the-loop authorization.
-
+Automated log ingestion and error fingerprinting. Anomaly detection and temporal analysis. Service impact analysis and incident investigation. MCP integration and AI-assisted workflows. Evidence validation and human-in-the-loop authorization.
 
 ### Predictive Crop Fertilization System
 Academic research project focused on predictive agricultural systems.
 
-Regression and supervised neural-network models.
-
-Agricultural data processing.
-
-Model evaluation using statistical metrics.
+Regression and supervised neural-network models. Agricultural data processing. Model evaluation using statistical metrics.
 
 ## 📚 Currently Learning
 
