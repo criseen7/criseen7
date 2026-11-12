@@ -1,11 +1,13 @@
 # Hi, I'm Cristofer 👋
-### Backend Developer | Data Science | Software Engineer
+### Backend Software Engineer | Python | Java | Software Architecture
 
 # 💫 About Me
 
-Computer Engineer graduated from ESIME Culhuacán (IPN) focused on backend development and data-driven applications.
+Computer Engineer graduated from ESIME Culhuacán – National Polytechnic Institute (IPN), focused on backend engineering, enterprise software development, and data-driven applications.
 
-Passionate about building scalable software using Python, RESTful architectures, databases, and cloud technologies. Experienced in developing predictive expert systems and participating in competitive programming contests (ICPC).
+I have professional experience developing enterprise web applications, RESTful APIs, database solutions, and software systems. I enjoy designing reliable, maintainable architectures and solving complex engineering problems.
+
+My technical interests include backend development, distributed systems, database engineering, observability, and software quality.
 
 Currently interested in:
 - Software Engineering
@@ -24,17 +26,39 @@ Currently interested in:
 
 ## 🚀 Featured Projects
 
-### Distributed Systems in Python
-Implementation of RPC communication, message passing, and distributed architectures using Python sockets.
+### BenePDF
+Desktop application focused on PDF document management and editing.
 
-### Streamlit + SQLite Dashboard
-Interactive analytics dashboard with filtering, real-time visualization, and SQLite integration.
+PDF document viewing and organization.
 
-### FLSM Subnet Calculator
-Python-based subnetting calculator for automated network planning and IP allocation.
+Page manipulation and document processing.
 
-### Expert System for Agriculture
-Predictive expert system for potato crop management using rule-based logic and neural networks.
+Text and image editing workflows.
+
+Document redaction and safe export.
+
+### LogLens – Enterprise Log Analyzer
+Log analysis and observability platform designed to support incident investigation.
+
+Automated log ingestion and error fingerprinting.
+
+Anomaly detection and temporal analysis.
+
+Service impact analysis and incident investigation.
+
+MCP integration and AI-assisted workflows.
+
+Evidence validation and human-in-the-loop authorization.
+
+
+### Predictive Crop Fertilization System
+Academic research project focused on predictive agricultural systems.
+
+Regression and supervised neural-network models.
+
+Agricultural data processing.
+
+Model evaluation using statistical metrics.
 
 ## 📚 Currently Learning
 
